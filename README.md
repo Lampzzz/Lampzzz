@@ -1,6 +1,6 @@
 ## Hi, I'm Lampzz - Aspiring Web and Mobile Developer 👋
 
-I'm a Filipino student in my 4th year, driven by a curious mind and a passion for learning something new every day. I'm currently focused on becoming a web and mobile developer.
+I'm a Filipino student in my 4th year, studying BSIT (Bachelor of Science in Information Technology) at the University of Caloocan City. Driven by a curious mind, I strive to learn something new every day. Currently, I am focused on becoming a web and mobile developer.
 
 - 🔭 I’m diving deep into my capstone project, bringing innovative ideas to life.
 - 🌱 Currently immersing myself in React Native and Firebase to build cutting-edge applications.
