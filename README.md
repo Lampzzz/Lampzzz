@@ -7,6 +7,7 @@ I'm a Filipino student in my 4th year, studying BSIT (Bachelor of Science in Inf
 - 😍 My hobbies are reading manhwa and playing online games
 - 💌 Contact me at [lampazaj@gmail.com](mailto:lampazaj@gmail.com).
 
+
 Technologies I've been learning and using so far (alphabetical order) :
 
 - Programming languages : <br />
