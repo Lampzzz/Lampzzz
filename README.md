@@ -8,7 +8,7 @@ I'm a Filipino student in my 4th year, studying BSIT (Bachelor of Science in Inf
 - 💌 Contact me at [lampazaj@gmail.com](mailto:lampazaj@gmail.com).
 
 
-Technologies I've been learning and using so far (alphabetical order) :
+Technologies I've been learning and using so far :
 
 - Programming languages : <br />
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
